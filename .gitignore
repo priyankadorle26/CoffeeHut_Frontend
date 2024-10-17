@@ -1,0 +1,6 @@
+# Ignore Node.js dependencies (if relevant)
+node_modules/
+
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
