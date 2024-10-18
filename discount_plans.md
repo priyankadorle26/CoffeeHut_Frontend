@@ -1,0 +1,1 @@
+- Coffehut_Wallet: Offers a 10% discount for loyal customers who pay using the Coffehut Wallet.
